@@ -193,13 +193,53 @@
   {
     "src": "images/overwatch_wallpaper_images/overwatch_versus_sky.png",
     "artist": "mac117"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/pharah_background.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/pharah_intro_1.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/pharah_saying_dark_1.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/pharah_saying_light_1.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/pharah_screenshot.jpg"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_background_1.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_background_1_2560x1440.jpg"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_background_2.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_black_wings.jpg"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_black_wings_sayings.jpg"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_intro_1.jpg"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_pose_logo.jpg"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_saying_dark_1.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_saying_dark_2.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_saying_light_1.png"
+  },
+  {
+    "src": "images/overwatch_wallpaper_images/reaper_screenshot"
   }
-
-,{
-  "src": "images/overwatch_wallpaper_images/pharah_background.png"
-},{
-  "src": "images/overwatch_wallpaper_images/pharah_intro_1.png"
-},{
-  "src": "images/overwatch_wallpaper_images/pharah_saying_dark_1.png"
-}
 ]
