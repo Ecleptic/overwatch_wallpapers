@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'big_noodle_titling_oblique';
+    src: url(assets/fonts/big_noodle_titling_oblique.ttf);
+    src: url(assets/fonts/big_noodle_titling.ttf);
+}
+ul {
+    list-style-type: none;
+}
+
+body{
+    font-size: 2em ;
+    font-family: big_noodle_titling_oblique, BigNoodleTitling, serif, Arial;
+    background-color: #808080;
+}
+#artist{
+    color: #fff225;
+}
+

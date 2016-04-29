@@ -2,31 +2,26 @@
 <html ng-app="OverPapers">
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.js"></script>
-    <script type="text/javascript" src="app.js"></script>
+    <link rel="stylesheet" href="app.css">
 </head>
 <body>
-<div ng-controller="heroController">
+<div ng-controller="overController">
     I have {{heroes.length}} heroes. They are:
-    <input type="search" ng-model="q" placeholder="filter heroes..." aria-label="filter heroes"/>
-    <ul class="example-animate-container">
-        <li class="animate-repeat" ng-repeat="hero in heroes | filter:q as results">
-            {{hero}}
+    <input type="search" ng-model="searchText.tags" placeholder="search wallpapers..."/>
+    </br>
+    <ul class="animate-repeat" ng-repeat="object in contents | filter:searchText:strict">
+        <li>
+            <text id="hero">{{object.hero}}</text>
+            <img class="img-responsive" style="width:204px;height:auto;" ng-src="{{object.src}}" ng-click="openImage">
+            <text id="artist">{{object.artist}}</text>
         </li>
         <li class="animate-repeat" ng-if="results.length == 0">
             <strong>No results found...</strong>
         </li>
     </ul>
-
-</div>
-<div ng-controller="overController">
-
-    <ul class="animate-repeat" ng-repeat="object in contents">
-        <li>
-            <img class="img-responsive" ng-src="{{object.src}}">
-        </li>
-    </ul>
 </div>
 </body>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.js"></script>
+<script type="text/javascript" src="app.js"></script>
 </html>

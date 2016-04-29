@@ -4,7 +4,8 @@
     "artist": "/u/PT-Desu",
     "tags": [
       "bastion"
-    ]
+    ],
+    "hero":"BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/bastion_intro_1.jpg",
@@ -12,33 +13,38 @@
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156",
     "tags": [
       "bastion"
-    ]
+    ],
+    "hero":"BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/bastion_saying_1.png",
     "artist": "/u/dxhhh101",
     "tags": [
       "bastion"
-    ]
+    ],
+    "hero":"BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/bastion_saying_dark_1.png",
     "tags": [
       "bastion"
-    ]
+    ],
+    "hero":"BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/bastion_screenshot_1.jpg",
     "tags": [
       "bastion"
-    ]
+    ],
+    "hero":"BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_intro_1.jpg",
     "tags": [
       "D.Va",
       "dva"
-    ]
+    ],
+    "hero":"D.VA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_saying_dark_1.png",
@@ -364,28 +370,29 @@
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_assets/images/overwatch_lineup_sky.png",
+    "src": "assets/images/overwatch_wallpaper_images/overwatch_lineup_sky.png",
     "tags": [
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_assets/images/overwatch_lineup_standard.jpg",
+    "src": "assets/images/overwatch_wallpaper_images/overwatch_lineup_standard.jpg",
     "tags": [
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_assets/images/overwatch_minimalist_logos.jpg",
+    "src": "assets/images/overwatch_wallpaper_images/overwatch_minimalist_logos.jpg",
     "tags": [
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_assets/images/overwatch_versus_black.png",
+    "src": "assets/images/overwatch_wallpaper_images/overwatch_versus_black.png",
     "artist": "mac117",
     "tags": [
     ]
+
   },
   {
-    "src": "assets/images/overwatch_wallpaper_assets/images/overwatch_versus_sky.png",
+    "src": "assets/images/overwatch_wallpaper_images/overwatch_versus_sky.png",
     "artist": "mac117",
     "tags": [
     ]
@@ -397,7 +404,7 @@
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/pharah_intro_1.png",
+    "src": "assets/images/overwatch_wallpaper_images/pharah_intro_1.jpg",
     "tags": [
       "pharah"
     ]
@@ -445,7 +452,7 @@
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/reaper_black_wings_sayings.jpg",
+    "src": "assets/images/overwatch_wallpaper_images/reaper_black_wings_saying.jpg",
     "tags": [
       "reaper"
     ]
@@ -667,7 +674,7 @@
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/torbjorn_sreenshot_1.jpg",
+    "src": "assets/images/overwatch_wallpaper_images/torbjorn_screenshot_1.jpg",
     "tags": [
       "torbjorn"
     ]
@@ -795,43 +802,43 @@
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/Widowmaker_sniper.jpg",
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_sniper.jpg",
     "tags": [
       "Widowmaker"
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/Widowmaker_background_1.png",
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_background_1.png",
     "tags": [
       "Widowmaker"
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/Widowmaker_intro_1.png",
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_intro_1.jpg",
     "tags": [
       "Widowmaker"
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/Widowmaker_intro_2.png",
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_intro_2.png",
     "tags": [
       "Widowmaker"
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/Widowmaker_saying_dark_1.png",
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_saying_dark_1.png",
     "tags": [
       "Widowmaker"
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/Widowmaker_saying_light_1.png",
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_saying_light_1.png",
     "tags": [
       "Widowmaker"
     ]
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/Winston_background_1.png",
+    "src": "assets/images/overwatch_wallpaper_images/winston_background_1.png",
     "tags": [
       "winston"
     ]

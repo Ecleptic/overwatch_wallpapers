@@ -10,8 +10,10 @@ angular.module('OverPapers', ['ngAnimate'])
         $http.get('wallpapers_info.json')
             .success(function(data, status, headers, config) {
                 $scope.contents = data;
-                console.log(data[0].src);
             })
             .error(function(data, status, headers, config) {});
-        console.log($scope.contents);
+        $scope.openImage = function () {
+            console.log($scope.content.src);
+        }
+        
     });
