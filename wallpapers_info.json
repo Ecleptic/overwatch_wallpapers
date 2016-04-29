@@ -5,7 +5,7 @@
     "tags": [
       "bastion"
     ],
-    "hero":"BASTION"
+    "hero": "BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/bastion_intro_1.jpg",
@@ -14,7 +14,7 @@
     "tags": [
       "bastion"
     ],
-    "hero":"BASTION"
+    "hero": "BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/bastion_saying_1.png",
@@ -22,21 +22,21 @@
     "tags": [
       "bastion"
     ],
-    "hero":"BASTION"
+    "hero": "BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/bastion_saying_dark_1.png",
     "tags": [
       "bastion"
     ],
-    "hero":"BASTION"
+    "hero": "BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/bastion_screenshot_1.jpg",
     "tags": [
       "bastion"
     ],
-    "hero":"BASTION"
+    "hero": "BASTION"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_intro_1.jpg",
@@ -44,330 +44,383 @@
       "D.Va",
       "dva"
     ],
-    "hero":"D.VA"
+    "hero": "D.VA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_saying_dark_1.png",
     "tags": [
       "D.Va",
       "dva"
-    ]
+    ],
+    "hero": "D.VA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_saying_dark_2.png",
     "tags": [
       "D.Va",
       "dva"
-    ]
+    ],
+    "hero": "D.VA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_saying_dark_3.png",
     "tags": [
       "D.Va",
       "dva"
-    ]
+    ],
+    "hero": "D.VA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_saying_light_1.png",
     "tags": [
       "D.Va",
       "dva"
-    ]
+    ],
+    "hero": "D.VA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_saying_light_2.png",
     "tags": [
       "D.Va",
       "dva"
-    ]
+    ],
+    "hero": "D.VA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_saying_light_3.png",
     "tags": [
       "D.Va",
       "dva"
-    ]
+    ],
+    "hero": "D.VA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_intro_1.jpg",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_intro_2.jpg",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_dark_1.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_dark_1_2560x1080.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_dark_2.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_dark_2_2560x1080.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_dark_3.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_light_1.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_light_2.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_light_3.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_theatrical_standard.jpg",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_vector.png",
     "tags": [
       "genji"
-    ]
+    ],
+    "hero": "GENJI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_background_1.png",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_intro_1.jpg",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_1.png",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_2.png",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_3.png",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_1.png",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_2.png",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_3.png",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_screenshot.jpg",
     "tags": [
       "hanzo"
-    ]
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_intro_1.jpg",
     "tags": [
       "junkrat"
-    ]
+    ],
+    "hero": "JUNKRAT"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_saying_dark_1.png",
     "tags": [
       "junkrat"
-    ]
+    ],
+    "hero": "JUNKRAT"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_saying_dark_1_2560x1080.png",
     "tags": [
       "junkrat"
-    ]
+    ],
+    "hero": "JUNKRAT"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_saying_dark_2_2560x1080.png",
     "tags": [
       "junkrat"
-    ]
+    ],
+    "hero": "JUNKRAT"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_saying_light_1.png",
     "tags": [
       "junkrat"
-    ]
+    ],
+    "hero": "JUNKRAT"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/logo_burst_standard.jpg",
     "tags": [
-    ]
+    ],
+    "hero": "JUNKRAT"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/lucio_intro_1.jpg",
     "tags": [
       "lucio"
-    ]
+    ],
+    "hero": "LUCIO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/lucio_saying_dark_1.png",
     "tags": [
       "lucio"
-    ]
+    ],
+    "hero": "LUCIO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/lucio_saying_light_1.png",
     "tags": [
       "lucio"
-    ]
+    ],
+    "hero": "LUCIO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mccree_intro_1.jpg",
     "tags": [
       "mccree"
-    ]
+    ],
+    "hero": "MCCREE"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mccree_saying_dark_1.png",
     "tags": [
       "mccree"
-    ]
+    ],
+    "hero": "MCCREE"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mccree_saying_light_1.png",
     "tags": [
       "mccree"
-    ]
+    ],
+    "hero": "MCCREE"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_intro_1.jpg",
     "tags": [
       "mei"
-    ]
+    ],
+    "hero": "MEI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_saying_dark_1.png",
     "tags": [
       "mei"
-    ]
+    ],
+    "hero": "MEI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_saying_dark_2.png",
     "tags": [
       "mei"
-    ]
+    ],
+    "hero": "MEI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_saying_dark_3.png",
     "tags": [
       "mei"
-    ]
+    ],
+    "hero": "MEI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_saying_light_1.png",
     "tags": [
       "mei"
-    ]
+    ],
+    "hero": "MEI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_saying_light_2.png",
     "tags": [
       "mei"
-    ]
+    ],
+    "hero": "MEI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_saying_light_3.png",
     "tags": [
       "mei"
-    ]
+    ],
+    "hero": "MEI"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_background_1.png",
     "tags": [
       "mercy"
-    ]
+    ],
+    "hero": "MERCY"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_intro_1.jpg",
     "tags": [
       "mercy"
-    ]
+    ],
+    "hero": "MERCY"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_saying_dark_1.png",
     "tags": [
       "mercy"
-    ]
+    ],
+    "hero": "MERCY"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_saying_light_1.png",
     "tags": [
       "mercy"
-    ]
+    ],
+    "hero": "MERCY"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_screenshot.jpg",
     "tags": [
       "mercy"
-    ]
+    ],
+    "hero": "MERCY"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_theatrical_standard.jpg",
     "tags": [
       "mercy"
-    ]
+    ],
+    "hero": "MERCY"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_vector_art.png",
     "tags": [
       "mercy"
-    ]
+    ],
+    "hero": "MERCY"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_lineup_sky.png",
@@ -389,7 +442,6 @@
     "artist": "mac117",
     "tags": [
     ]
-
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_versus_sky.png",
@@ -401,536 +453,625 @@
     "src": "assets/images/overwatch_wallpaper_images/pharah_background.png",
     "tags": [
       "pharah"
-    ]
+    ],
+    "hero": "PHARAH"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_intro_1.jpg",
     "tags": [
       "pharah"
-    ]
+    ],
+    "hero": "PHARAH"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_saying_dark_1.png",
     "tags": [
       "pharah"
-    ]
+    ],
+    "hero": "PHARAH"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_saying_light_1.png",
     "tags": [
       "pharah"
-    ]
+    ],
+    "hero": "PHARAH"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_screenshot.jpg",
     "tags": [
       "pharah"
-    ]
+    ],
+    "hero": "PHARAH"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_background_1.png",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_background_1_2560x1440.jpg",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_background_2.png",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_black_wings.jpg",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_black_wings_saying.jpg",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_intro_1.jpg",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_pose_logo.jpg",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_saying_dark_1.png",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_saying_dark_2.png",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_saying_light_1.png",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_screenshot.jpg",
     "tags": [
       "reaper"
-    ]
+    ],
+    "hero": "REAPER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinheart_background_1.png",
     "tags": [
       "reinheart"
-    ]
+    ],
+    "hero": "REINHEART"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinheart_background_2.png",
     "tags": [
       "reinheart"
-    ]
+    ],
+    "hero": "REINHEART"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinheart_intro_1.jpg",
     "tags": [
       "reinheart"
-    ]
+    ],
+    "hero": "REINHEART"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinheart_saying_dark_1.png",
     "tags": [
       "reinheart"
-    ]
+    ],
+    "hero": "REINHEART"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinheart_saying_light_1.png",
     "tags": [
       "reinheart"
-    ]
+    ],
+    "hero": "REINHEART"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinheart_screenshot.jpg",
     "tags": [
       "reinheart"
-    ]
+    ],
+    "hero": "REINHEART"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/roadhog_intro_1.jpg",
     "tags": [
       "roadhog"
-    ]
+    ],
+    "hero": "ROADHOG"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/roadhog_saying_dark_1.png",
     "tags": [
       "roadhog"
-    ]
+    ],
+    "hero": "ROADHOG"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/roadhog_saying_light_1.png",
     "tags": [
       "roadhog"
-    ]
+    ],
+    "hero": "ROADHOG"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/roadhog_silhouette.png",
     "tags": [
       "roadhog"
-    ]
+    ],
+    "hero": "ROADHOG"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/roadhog_silhouette_words.png",
     "tags": [
       "roadhog"
-    ]
+    ],
+    "hero": "ROADHOG"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_intro_1.jpg",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_dark_1.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_dark_2.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_dark_3.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_dark_4.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_dark_5.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_light_1.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_light_2.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_light_3.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_light_4.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_light_5.png",
     "tags": [
       "soldier 76"
-    ]
+    ],
+    "hero": "SOLDIER 76"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/symmetra_background_1.png",
     "tags": [
       "symmetra"
-    ]
+    ],
+    "hero": "SYMMETRA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/symmetra_intro_1.jpg",
     "tags": [
       "symmetra"
-    ]
+    ],
+    "hero": "SYMMETRA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/symmetra_saying_dark_1.png",
     "tags": [
       "symmetra"
-    ]
+    ],
+    "hero": "SYMMETRA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/symmetra_saying_light_1.png",
     "tags": [
       "symmetra"
-    ]
+    ],
+    "hero": "SYMMETRA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/symmetra_screenshot_1.jpg",
     "tags": [
       "symmetra"
-    ]
+    ],
+    "hero": "SYMMETRA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_intro_1.jpg",
     "tags": [
       "torbjorn"
-    ]
+    ],
+    "hero": "TORBJORN"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_saying_dark_1.png",
     "tags": [
       "torbjorn"
-    ]
+    ],
+    "hero": "TORBJORN"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_saying_light_1.png",
     "tags": [
       "torbjorn"
-    ]
+    ],
+    "hero": "TORBJORN"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_screenshot_1.jpg",
     "tags": [
       "torbjorn"
-    ]
+    ],
+    "hero": "TORBJORN"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_screenshot_1.jpg",
     "tags": [
       "torbjorn"
-    ]
+    ],
+    "hero": "TORBJORN"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_background_1.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_controller_art.jpg",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_intro_1.jpg",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_logo_graffiti.png",
     "artist": "/u/rtownscrub",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_saying_dark_1.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_saying_dark_sketch_1.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_saying_dark_sketch_2.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_saying_light_1.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_saying_light_sketch_1.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_saying_light_sketch_2.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_screencap.jpg",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_screenshot_2.jpg",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_silhouette_1.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_silhouette_saying_1.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_silhouette_saying_2.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_sketch_1920x1080.jpg",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_spotlight.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_spotlight_no_text.png",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_vector_art.png",
     "artist": "walidsodki",
     "tags": [
       "tracer"
-    ]
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_sniper.jpg",
     "tags": [
       "Widowmaker"
-    ]
+    ],
+    "hero": "WIDOWMAKER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_background_1.png",
     "tags": [
       "Widowmaker"
-    ]
+    ],
+    "hero": "WIDOWMAKER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_intro_1.jpg",
     "tags": [
       "Widowmaker"
-    ]
+    ],
+    "hero": "WIDOWMAKER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_intro_2.png",
     "tags": [
       "Widowmaker"
-    ]
+    ],
+    "hero": "WIDOWMAKER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_saying_dark_1.png",
     "tags": [
       "Widowmaker"
-    ]
+    ],
+    "hero": "WIDOWMAKER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_saying_light_1.png",
     "tags": [
       "Widowmaker"
-    ]
+    ],
+    "hero": "WIDOWMAKER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/winston_background_1.png",
     "tags": [
       "winston"
-    ]
+    ],
+    "hero": "WINSTON"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/winston_intro_1.jpg",
     "tags": [
       "winston"
-    ]
+    ],
+    "hero": "WINSTON"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/winston_intro_2.jpg",
     "tags": [
       "winston"
-    ]
+    ],
+    "hero": "WINSTON"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/winston_saying_dark_1.png",
     "tags": [
       "winston"
-    ]
+    ],
+    "hero": "WINSTON"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/winston_saying_light_1.png",
     "tags": [
       "winston"
-    ]
+    ],
+    "hero": "WINSTON"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/winston_screenshot.jpg",
     "tags": [
       "winston"
-    ]
+    ],
+    "hero": "WINSTON"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zarya_intro_1.jpg",
     "tags": [
       "zarya"
-    ]
+    ],
+    "hero": "ZARYA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zarya_saying_dark_1.png",
     "tags": [
       "zarya"
-    ]
+    ],
+    "hero": "ZARYA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zarya_saying_light_1.png",
     "tags": [
       "zarya"
-    ]
+    ],
+    "hero": "ZARYA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_background_1.png",
     "tags": [
       "zenyatta"
-    ]
+    ],
+    "hero": "ZENYATTA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_intro_1.jpg",
     "tags": [
       "zenyatta"
-    ]
+    ],
+    "hero": "ZENYATTA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_saying_dark_1.png",
     "tags": [
       "zenyatta"
-    ]
+    ],
+    "hero": "ZENYATTA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_saying_dark_1_2560x1080.png",
     "tags": [
       "zenyatta"
-    ]
+    ],
+    "hero": "ZENYATTA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_saying_dark_2_2560x1080.png",
     "tags": [
       "zenyatta"
-    ]
+    ],
+    "hero": "ZENYATTA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_saying_light_1.png",
     "tags": [
       "zenyatta"
-    ]
+    ],
+    "hero": "ZENYATTA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_screenshot.jpg",
     "tags": [
       "zenyatta"
-    ]
+    ],
+    "hero": "ZENYATTA"
   }
 ]

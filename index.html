@@ -8,11 +8,12 @@
 <div ng-controller="overController">
     I have {{heroes.length}} heroes. They are:
     <input type="search" ng-model="searchText.tags" placeholder="search wallpapers..."/>
-    </br>
+    <br>
+    <br>
     <ul class="animate-repeat" ng-repeat="object in contents | filter:searchText:strict">
         <li>
             <text id="hero">{{object.hero}}</text>
-            <img class="img-responsive" style="width:204px;height:auto;" ng-src="{{object.src}}" ng-click="openImage">
+            <img class="img-responsive" style="width:204px;height:auto;" ng-src="{{object.src}}" ng-click="openImage(object.src)">
             <text id="artist">{{object.artist}}</text>
         </li>
         <li class="animate-repeat" ng-if="results.length == 0">
