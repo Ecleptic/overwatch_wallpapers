@@ -1,15 +1,17 @@
 'use strict';
 
 // Declare app level module which depends on views, and components
-angular.module('OverPapers', [])
-    .controller('overController', ['$http', function ($http) {
-        var paper_list = this;
-        paper_list.products = [];
-
-        $http.get('/overwatch_wallpapers/wallpapers_info.json').success(function (data) {
-            paper_list.products = data;
-            console.log(data);
-        }).error(console.log("error"))
-    }]);
-
-
+angular.module('OverPapers', ['ngAnimate'])
+    .controller('heroController', function($scope) {
+        $scope.heroes = ["Bastion", "D.Va", "Genji", "Hanzo", "Junkrat", "Lucio", "McCree", "Mei", "Mercy", "Pharah", "Reaper", "Reinheart", "Roadhog", "Soldier 76", "Symmetra", "Torbjorn", "Tracer", "Widowmaker", "Winston", "Zarya", "Zenyatta"];
+    })
+    .controller('overController', function($scope, $http) {
+        $scope.content = null;
+        $http.get('wallpapers_info.json')
+            .success(function(data, status, headers, config) {
+                $scope.contents = data;
+                console.log(data[0].src);
+            })
+            .error(function(data, status, headers, config) {});
+        console.log($scope.contents);
+    });

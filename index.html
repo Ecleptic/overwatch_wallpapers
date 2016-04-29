@@ -3,9 +3,30 @@
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.js"></script>
     <script type="text/javascript" src="app.js"></script>
 </head>
-<body ng-controller="overController">
-<h1>hi world!</h1>
+<body>
+<div ng-controller="heroController">
+    I have {{heroes.length}} heroes. They are:
+    <input type="search" ng-model="q" placeholder="filter heroes..." aria-label="filter heroes"/>
+    <ul class="example-animate-container">
+        <li class="animate-repeat" ng-repeat="hero in heroes | filter:q as results">
+            {{hero}}
+        </li>
+        <li class="animate-repeat" ng-if="results.length == 0">
+            <strong>No results found...</strong>
+        </li>
+    </ul>
+
+</div>
+<div ng-controller="overController">
+
+    <ul class="animate-repeat" ng-repeat="object in contents">
+        <li>
+            <img class="img-responsive" ng-src="{{object.src}}">
+        </li>
+    </ul>
+</div>
 </body>
 </html>
