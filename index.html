@@ -2,33 +2,85 @@
 <html ng-app="OverPapers">
 <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link rel="stylesheet" href="app.css">
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/main.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
+
 </head>
-<body>
-<div class="container center" ng-controller="overController">
-    <div class="jumbotron">
-        Wallpaper Search:
-        <input type="search" ng-model="searchText" ng-change="searchTextChanged()" placeholder="search wallpapers..."/>
-        <div>
-            <ul class="animate-repeat" ng-repeat="object in matchedImages">
-                <li>
-                    <text id="hero">{{object.hero}}</text>
-                    <a href="{{object.src}}">
-                        <img class="img-responsive" style="width:204px;height:auto;"
-                        ng-src="{{object.src}}">
-                    </a>
-                    <text  ng-show="object.artist">Artist:</text>
-                    <text id="artist">{{object.artist}}</text>
-                </li>
-                <li class="animate-repeat" ng-if="results.length == 0">
-                    <strong>No results found...</strong>
-                </li>
-            </ul>
+<body ng-controller="overController">
+<nav class="flexy-nav">
+    <text style="font-size: 200%">Wallpaper Search:</text>
+    <input class="flexy-nav__search" type="search" style="font-size: 200%" ng-model="searchText"
+           ng-change="searchTextChanged()"
+           placeholder="search wallpapers..."/>
+</nav>
+<div class="container">
+    <div>
+        <ul class="animate-repeat flex-container" ng-repeat="object in matchedImages">
+            <li class="flex-item">
+                <text id="hero" style="font-size: 300%">{{object.hero}}</text>
+                <a href="{{object.src}}">
+                    <img class="img-responsive" style="width:80%;height:auto;"
+                         ng-src="{{object.src}}">
+                </a>
+                <text ng-show="object.artist" style="font-size: 200%">Artist:</text>
+                <text id="artist" style="font-size: 200%">{{object.artist}}</text>
+            </li>
+            <li class="animate-repeat" ng-if="results.length == 0">
+                <strong>No results found...</strong>
+            </li>
+        </ul>
+    </div>
+</div>
+<div ng-hide="showBody">
+    <div>
+        <div class="top_filler">
+            <a href="https://mega.nz/#!q9lzgZSL!Fbnoi0fiCsPH1mLHY5X27mL7lfAuAvYWQVjdOmLZlVY" target='_blank'
+               class="link">
+                <div class="download">
+                    <h4>Download All Wallpapers</h4>
+                </div>
+            </a>
         </div>
+        <div class="entry" ng-repeat="heroIcon in heroes" style="padding-left: 3px;padding-right: 3px;">
+            <img ng-src="assets/images/index_images/{{heroIcon.name}}.jpg" class="icon" alt="{{heroIcon.name}}"/>
+            <h4>{{heroIcon.name}}</h4>
+        </div>
+
+        <hr>
+        <br>
+        <!--<h2 class="category">Miscellaneous</h2>-->
+        <div id="battlegrounds">
+            <div class="misc">
+                <img src="assets/images/index_images/logo.png" class="misc_icon" alt="All"/>
+                <h4>All</h4>
+            </div>
+            <div class="misc">
+                <img src="assets/images/index_images/logo.png" class="misc_icon" alt="Blizzard"/>
+                <h4>Blizzard</h4>
+            </div>
+            <div class="placeholder"></div>
+            <div class="placeholder"></div>
+            <div class="placeholder"></div>
+        </div>
+
+        <div class="bottom">
+            <p id="disclaimer">Sounds of the Overwatch isn't endorsed by Blizzard and
+                doesn't reflect the views or opinions of Blizzard or anyone officially
+                involved in producing or managing Overwatch.
+                <br><br>
+                Style of main page inspired by <a href="http://rpboyer15.github.io/sounds-of-overwatch/">Sounds of
+                    Overwatch</a>
+                created by rpboyer15
+            </p>
+
+        </div>
+        <br><br>
     </div>
 </div>
 </body>
+
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.js"></script>
 <script type="text/javascript" src="app.js"></script>

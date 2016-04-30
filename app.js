@@ -4,12 +4,20 @@
 // Declare app level module which depends on views, and components
 angular.module('OverPapers', ['ngAnimate'])
     .controller('heroController', function ($scope) {
-        $scope.heroes = ["Bastion", "D.Va", "Genji", "Hanzo", "Junkrat", "Lucio",
-            "McCree", "Mei", "Mercy", "Pharah", "Reaper", "Reinheart", "Roadhog",
-            "Soldier 76", "Symmetra", "Torbjorn", "Tracer", "Widowmaker", "Winston",
-            "Zarya", "Zenyatta"];
     })
     .controller('overController', function ($scope, $http) {
+        $scope.heroes = [
+            {"name": "Bastion", "src": "assets/images/index_images"},
+            {"name": "d.va"}, {"name": "Genji"},
+            {"name": "Hanzo"}, {"name": "Junkrat"},
+            {"name": "Lucio"}, {"name": "McCree"},
+            {"name": "Mei"}, {"name": "Mercy"},
+            {"name": "Pharah"}, {"name": "Reaper"},
+            {"name": "reinhardt"}, {"name": "Roadhog"},
+            {"name": "Soldier 76"}, {"name": "Symmetra"},
+            {"name": "Torbjorn"}, {"name": "Tracer"},
+            {"name": "Widowmaker"}, {"name": "Winston"},
+            {"name": "Zarya"}, {"name": "Zenyatta"}];
         $scope.content = null;
         $scope.matchedImages = []
         $http.get('wallpapers_info.json')
@@ -26,9 +34,17 @@ angular.module('OverPapers', ['ngAnimate'])
 
 
         $scope.searchTextChanged = function () {
+            $scope.showBody = true;
+            document.body.style.backgroundColor = "#808080";
+            document.body.style.backgroundImage = 'none';
             $scope.matchedImages = $scope.contents.filter(function (item) {
-                if (!$scope.searchText || !$scope.searchText.length)
-                    return false
+                if (!$scope.searchText || !$scope.searchText.length) {
+                    $scope.showBody = false;
+                    document.body.style.backgroundColor = "#f5f6fa";
+                    document.body.style.backgroundImage = "url('assets/images/index_images/background.png')";
+                    return false;
+                }
+
 
                 if (item.artist && item.artist.toUpperCase().indexOf($scope.searchText.toUpperCase()) !== -1)
                     return true
