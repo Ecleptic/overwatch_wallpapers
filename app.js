@@ -6,18 +6,7 @@ angular.module('OverPapers', ['ngAnimate'])
     .controller('heroController', function ($scope) {
     })
     .controller('overController', function ($scope, $http) {
-        $scope.heroes = [{"name": "bastion"}, {"name": "d.va"}, {"name": "genji"}, {"name": "hanzo"}, {"name": "junkrat"}, {"name": "lucio"}, {"name": "mccree"}, {"name": "mei"}, {"name": "mercy"
-        }, {"name": "pharah"
-        }, {"name": "reaper"
-        }, {"name": "reinhardt"
-        }, {"name": "roadhog"
-        }, {"name": "soldier76"
-        }, {"name": "symmetra"
-        }, {"name": "torbjorn"
-        }, {"name": "tracer"
-        }, {"name": "widowmaker"
-        }, {"name": "winston"}, {"name": "zarya"}, {"name": "zenyatta"
-        }];
+        $scope.heroes = [{"name": "bastion"}, {"name": "d.va"}, {"name": "genji"}, {"name": "hanzo"}, {"name": "junkrat"}, {"name": "lucio"}, {"name": "mccree"}, {"name": "mei"}, {"name": "mercy"}, {"name": "pharah"}, {"name": "reaper"}, {"name": "reinhardt"}, {"name": "roadhog"}, {"name": "soldier 76"}, {"name": "symmetra"}, {"name": "torbjorn"}, {"name": "tracer"}, {"name": "widowmaker"}, {"name": "winston"}, {"name": "zarya"}, {"name": "zenyatta"}];
         $scope.content = null;
         $scope.matchedImages = []
         $http.get('wallpapers_info.json')
