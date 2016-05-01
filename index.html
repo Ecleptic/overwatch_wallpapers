@@ -26,8 +26,10 @@
                     <img class="img-responsive" style="width:80%;height:auto;"
                          ng-src="{{object.src}}">
                 </a>
-                <text id="artistTitle" ng-show="object.artist">Artist:</text>
-                <text id="artistText">{{object.artist}}</text>
+                <a href="{{object.artist_site}}">
+                    <text id="artistTitle" ng-show="object.artist">Artist:</text>
+                    <text id="artistText">{{object.artist}}</text>
+                </a>
             </li>
             <li class="animate-repeat" ng-if="results.length == 0">
                 <strong>No results found...</strong>

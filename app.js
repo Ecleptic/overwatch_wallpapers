@@ -19,13 +19,13 @@ angular.module('OverPapers', ['ngAnimate'])
             .error(function (data, status, headers, config) {
             });
         $scope.openImage = function (src) {
-            console.log(src);
+            // console.log(src);
             window.location.href = src;
         };
 
 
         $scope.showHero = function () {
-            console.log($scope.contents);
+            // console.log($scope.contents);
             $scope.paperList = $scope.contents.filter(function (item) {
                 if (item.hero && item.hero.toUpperCase().indexOf(heroSelected.toUpperCase()) !== -1)
                     return true;
