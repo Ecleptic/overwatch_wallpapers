@@ -10,26 +10,29 @@
     <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
 </head>
 <body ng-controller="heroController">
-<div>
-    <h1 class="text-center">{{heroSelected}}</h1>
-    <ul class="flex-container">
-        <div>
-            <ul class="animate-repeat flex-container">
-                <li class="flex-item" ng-repeat="object in paperList">
-                    <text id="heroText">{{object.hero}}</text>
-                    <a href="{{object.src}}">
-                        <img class="img-responsive" style="width:80%;height:auto;"
-                             ng-src="{{object.src}}">
-                    </a>
-                    <text id="artistTitle" ng-show="object.artist">Artist:</text>
-                    <text id="artistText">{{object.artist}}</text>
-                </li>
-                <li class="animate-repeat" ng-if="results.length == 0">
-                    <strong>No results found...</strong>
-                </li>
-            </ul>
-        </div>
-    </ul>
+<div class="container">
+
+    <div>
+        <h1 class="text-center">{{heroSelected}}</h1>
+        <ul class="flex-container">
+            <div>
+                <ul class="animate-repeat flex-container">
+                    <li class="flex-item" ng-repeat="object in paperList">
+                        <text id="heroText">{{object.hero}}</text>
+                        <a href="{{object.src}}">
+                            <img class="img-responsive" style="width:80%;height:auto;"
+                                 ng-src="{{object.src}}">
+                        </a>
+                        <text id="artistTitle" ng-show="object.artist">Artist:</text>
+                        <text id="artistText">{{object.artist}}</text>
+                    </li>
+                    <li class="animate-repeat" ng-if="results.length == 0">
+                        <strong>No results found...</strong>
+                    </li>
+                </ul>
+            </div>
+        </ul>
+    </div>
 </div>
 </body>
 

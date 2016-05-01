@@ -222,12 +222,28 @@
     "artist": "/u/dxhhh101"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_1_tokeshiro.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "tokeshiro"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_2.png",
     "tags": [
       "hanzo"
     ],
     "hero": "HANZO",
     "artist": "/u/dxhhh101"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_2_tokeshiro.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "tokeshiro"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_3.png",
@@ -238,12 +254,36 @@
     "artist": "/u/dxhhh101"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_3_tokeshiro.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "tokeshiro"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_4_tokeshiro.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "tokeshiro"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_1.png",
     "tags": [
       "hanzo"
     ],
     "hero": "HANZO",
     "artist": "/u/dxhhh101"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_1_tokeshiro.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "tokeshiro"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_2.png",
@@ -254,12 +294,36 @@
     "artist": "/u/dxhhh101"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_2_tokeshiro.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "tokeshiro"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_3.png",
     "tags": [
       "hanzo"
     ],
     "hero": "HANZO",
     "artist": "/u/dxhhh101"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_3_tokeshiro.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "tokeshiro"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_light_4_tokeshiro.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "tokeshiro"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_screenshot.jpg",
@@ -352,11 +416,43 @@
     "artist": "/u/dxhhh101"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/mccree_saying_dark_2.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "/u/dxhhh101"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/mccree_saying_dark_3.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "/u/dxhhh101"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/mccree_saying_light_1.png",
     "tags": [
       "mccree"
     ],
     "hero": "MCCREE",
+    "artist": "/u/dxhhh101"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/mccree_saying_light_2.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "/u/dxhhh101"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/mccree_saying_light_3.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
     "artist": "/u/dxhhh101"
   },
   {
@@ -472,30 +568,34 @@
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_lineup_sky.png",
     "tags": [
-    ]   , "hero": "miscellaneous"
-
+    ],
+    "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_lineup_standard.jpg",
     "tags": [
-    ], "hero": "miscellaneous"
+    ],
+    "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_minimalist_logos.jpg",
     "tags": [
-    ], "hero": "miscellaneous"
+    ],
+    "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_versus_black.png",
     "artist": "mac117",
     "tags": [
-    ], "hero": "miscellaneous"
+    ],
+    "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_versus_sky.png",
     "artist": "mac117",
     "tags": [
-    ], "hero": "miscellaneous"
+    ],
+    "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_background.png",
@@ -618,6 +718,15 @@
       "reaper"
     ],
     "hero": "REAPER"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/reaper_time_to_reap.png",
+    "tags": [
+      "reaper"
+    ],
+    "hero": "REAPER",
+    "artist": "Prollgurke",
+    "artist_site": "http://prollgurke.deviantart.com/"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_background_1.png",
@@ -912,6 +1021,14 @@
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_saying_dark_sketch_2.png",
+    "tags": [
+      "tracer"
+    ],
+    "hero": "TRACER",
+    "artist": "/u/dxhhh101"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/tracer_saying_dark_sketch_3.png",
     "tags": [
       "tracer"
     ],
