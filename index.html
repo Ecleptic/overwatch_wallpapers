@@ -46,22 +46,17 @@
         </div>
         <div class="entry" ng-repeat="heroIcon in heroes" style="padding-left: 3px;padding-right: 3px;"
              ng-click="selectHero(heroIcon.name)">
-            <img ng-src="assets/images/index_images/{{heroIcon.name}}.jpg" class="icon" alt="{{heroIcon.name}}"
-            />
+            <img ng-src="assets/images/index_images/{{heroIcon.name}}.jpg" class="icon" alt="{{heroIcon.name}}"/>
             <h4>{{heroIcon.name}}</h4>
         </div>
 
-        <hr>
-        <br>
-        <div id="battlegrounds">
-            <div class="misc">
-                <img src="assets/images/index_images/logo.png" class="misc_icon" alt="All"/>
-                <h4>All</h4>
-            </div>
-            <div class="misc">
-                <img src="assets/images/index_images/logo.png" class="misc_icon" alt="Blizzard"/>
-                <h4>Blizzard</h4>
-            </div>
+        <div class="entry" style="padding-left: 3px;padding-right: 3px;" ng-click="selectHero('miscellaneous')">
+            <img src="assets/images/index_images/logo.jpg" class="icon" alt="Miscellaneous"/>
+            <h4>Miscellaneous</h4>
+        </div>
+        <div class="entry" style="padding-left: 3px;padding-right: 3px;" ng-click="selectHero('')">
+            <img src="assets/images/index_images/logo.jpg" class="icon" alt="All"/>
+            <h4>All</h4>
         </div>
 
         <div class="bottom">

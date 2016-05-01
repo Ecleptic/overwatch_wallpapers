@@ -311,7 +311,7 @@
     "src": "assets/images/overwatch_wallpaper_images/logo_burst_standard.jpg",
     "tags": [
     ],
-    "hero": "JUNKRAT"
+    "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/lucio_intro_1.jpg",
@@ -472,29 +472,30 @@
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_lineup_sky.png",
     "tags": [
-    ]
+    ]   , "hero": "miscellaneous"
+
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_lineup_standard.jpg",
     "tags": [
-    ]
+    ], "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_minimalist_logos.jpg",
     "tags": [
-    ]
+    ], "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_versus_black.png",
     "artist": "mac117",
     "tags": [
-    ]
+    ], "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_versus_sky.png",
     "artist": "mac117",
     "tags": [
-    ]
+    ], "hero": "miscellaneous"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_background.png",
