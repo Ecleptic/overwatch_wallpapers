@@ -222,6 +222,30 @@
     "artist": "/u/dxhhh101"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/genji_silhouette_saying_1png",
+    "tags": [
+      "genji"
+    ],
+    "hero": "GENJI",
+    "artist": "/u/rangaming"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/genji_simple_saying_1.png",
+    "tags": [
+      "genji"
+    ],
+    "hero": "GENJI",
+    "artist": "/u/rangaming"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/genji_silhouette_saying_2.png",
+    "tags": [
+      "genji"
+    ],
+    "hero": "GENJI",
+    "artist": "/u/rangaming"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/genji_theatrical_standard.jpg",
     "tags": [
       "genji"
@@ -365,7 +389,21 @@
       "hanzo"
     ],
     "hero": "HANZO"
-  },
+  },{
+  "src": "assets/images/overwatch_wallpaper_images/hanzo_simple_saying_1.png",
+  "tags": [
+    "hanzo"
+  ],
+  "hero": "HANZO",
+  "artist": "/u/rangaming"
+},{
+  "src": "assets/images/overwatch_wallpaper_images/hanzo_simple_saying_2.png",
+  "tags": [
+    "hanzo"
+  ],
+  "hero": "HANZO",
+  "artist": "/u/rangaming"
+},
   {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_intro_1.jpg",
     "tags": [
@@ -490,19 +528,34 @@
   {
     "src": "assets/images/overwatch_wallpaper_images/mccree_saying_light_2.png",
     "tags": [
-      "hanzo"
+      "mccree"
     ],
-    "hero": "HANZO",
+    "hero": "MCCREE",
     "artist": "/u/dxhhh101"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mccree_saying_light_3.png",
     "tags": [
-      "hanzo"
+      "mccree"
     ],
-    "hero": "HANZO",
+    "hero": "MCCREE",
     "artist": "/u/dxhhh101"
   },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/mccree_silhouette_saying_1png",
+    "tags": [
+      "mccree"
+    ],
+    "hero": "MCCREE",
+    "artist": "/u/rangaming"
+  },{
+  "src": "assets/images/overwatch_wallpaper_images/mccree_simple_saying_1.png",
+  "tags": [
+    "mccree"
+  ],
+  "hero": "MCCREE",
+  "artist": "/u/rangaming"
+},
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_intro_1.jpg",
     "tags": [
