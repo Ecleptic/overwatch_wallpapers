@@ -26,84 +26,23 @@ h4 {
     background-color: transparent;
 }
 
-#artist {
-    color: #fff225;
+#artistText, #artistTitle {
+    color: #fa9c1e;
+    /*font-size: .4em;*/
+}
+
+#heroText {
+    /*font-size: .5em;*/
+
+}
+
+input, #searchTextTitle {
+    font-size: 200%;
 }
 
 .container {
     display: flex; /* or inline-flex */
     /*background-color: black;*/
-}
-
-input,
-button {
-    font: inherit;
-    border-radius: none;
-    box-shadow: none;
-    appearance: none;
-}
-
-button {
-    cursor: pointer;
-}
-
-/* nav container */
-
-.flexy-nav {
-    display: flex;
-    flex-direction: column;
-}
-
-/* nav links */
-
-.flexy-nav__items {
-    display: none;
-    flex: 1;
-    flex-direction: column;
-    list-style: none;
-    margin: 0 0 4px 0;
-    padding: 4px;
-    text-align: center;
-}
-
-.flexy-nav__items--visible {
-    display: flex;
-}
-
-.flexy-nav__item {
-    background-color: #f1f1f1;
-    border-bottom: solid 1px #e7e7e7;
-}
-
-.flexy-nav__item:last-child {
-    border-bottom: 0;
-}
-
-.flexy-nav__link {
-    padding: 8px;
-    display: block;
-}
-
-/* nav toggle */
-
-.flexy-nav__toggle {
-    margin: 0 0 4px 0;
-    padding: 4px;
-    color: #fff;
-    background-color: #f07850;
-    border: none;
-}
-
-.flexy-nav__toggle:hover,
-.flexy-nav__toggle:focus {
-    outline: none;
-    background-color: #c93f11;
-}
-
-/* nav form */
-
-.flexy-nav__form {
-    height: 48px;
 }
 
 .flexy-nav__search {
@@ -135,26 +74,13 @@ button {
         flex-direction: row;
         margin: 0;
         padding: 0;
-        height: 48px;
+        /*height: 48px;*/
     }
 
     .flexy-nav__item {
         flex: 1;
         margin-right: 4px;
         border-bottom: none;
-    }
-
-    .flexy-nav__link {
-        padding: 0;
-        line-height: 48px;
-    }
-
-    .flexy-nav__toggle {
-        display: none;
-    }
-
-    .flexy-nav__form {
-        flex: none;
     }
 
     .flexy-nav__search {
@@ -165,4 +91,30 @@ button {
     .flexy-nav__search:focus {
         width: 360px;
     }
+}
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.flex-item {
+    /*background: darkslateblue;*/
+    padding: 5px;
+    width: 250px;
+    height: auto;
+    margin-top: 10px;
+    /*line-height: 150px;*/
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: left;
 }

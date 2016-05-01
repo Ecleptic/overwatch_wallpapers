@@ -1,0 +1,37 @@
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.flex-item {
+    /*background: darkslateblue;*/
+    padding: 5px;
+    width: 250px;
+    height: auto;
+    margin-top: 10px;
+    /*line-height: 150px;*/
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: left;
+}
+
+body {
+    background-color: #808080;
+}
+
+#heroText {
+    color: white;
+}
+h1 {
+    color: white;
+    font-size: 5em;
+}
