@@ -62,7 +62,7 @@ angular.module('OverPapers', ['ngAnimate'])
         $scope.selectHero = function (hero) {
             heroSelected = hero;
             sessionStorage.setItem('hero', heroSelected);
-            window.location.href = 'heroSelectionPartial.html';
+            window.location.href = '../assets/pages/heroSelectionPartial.html';
         };
 
         $scope.searchTextChanged = function () {
