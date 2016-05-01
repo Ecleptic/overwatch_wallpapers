@@ -17,6 +17,14 @@
     "hero": "BASTION"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/bastion_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "bastion"
+    ],
+    "hero": "BASTION"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/bastion_saying_1.png",
     "artist": "/u/dxhhh101",
     "tags": [
@@ -142,6 +150,14 @@
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/genji_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "genji"
+    ],
+    "hero": "genji"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/genji_saying_dark_1.png",
     "tags": [
       "genji"
@@ -238,6 +254,14 @@
     "hero": "HANZO",
     "artist": "livewirehd",
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_saying_dark_1.png",
@@ -422,6 +446,14 @@
     "hero": "MCCREE",
     "artist": "livewirehd",
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/mccree_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "mccree"
+    ],
+    "hero": "MCCREE"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mccree_saying_dark_1.png",
@@ -644,6 +676,14 @@
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/pharah_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "pharah"
+    ],
+    "hero": "PHARAH"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/pharah_saying_dark_1.png",
     "tags": [
       "pharah"
@@ -724,6 +764,14 @@
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/reaper_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "reaper"
+    ],
+    "hero": "REAPER"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/reaper_pose_logo.jpg",
     "tags": [
       "reaper"
@@ -794,6 +842,14 @@
     "hero": "REINHARDT",
     "artist": "livewirehd",
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/reinhardt_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "reinhardt"
+    ],
+    "hero": "REINHARDT"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_saying_dark_1.png",
@@ -996,6 +1052,14 @@
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/torbjorn_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "torbjorn"
+    ],
+    "hero": "TORBJORN"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_saying_dark_1.png",
     "tags": [
       "torbjorn"
@@ -1048,6 +1112,14 @@
     "hero": "TRACER",
     "artist": "livewirehd",
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/tracer_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "tracer"
+    ],
+    "hero": "TRACER"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_logo_graffiti.png",
@@ -1214,6 +1286,14 @@
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "widowmaker"
+    ],
+    "hero": "WIDOWMAKER"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_saying_dark_1.png",
     "tags": [
       "Widowmaker"
@@ -1310,6 +1390,14 @@
     "hero": "ZENYATTA",
     "artist": "livewirehd",
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/zenyatta_moves_scrolls.png",
+    "artist": "/u/rangaming",
+    "tags": [
+      "zenyatta"
+    ],
+    "hero": "ZENYATTA"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_saying_dark_1.png",
