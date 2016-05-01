@@ -697,6 +697,15 @@
     "artist": "/u/PT-Desu"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/mercy_holyknight3000.jpg",
+    "tags": [
+      "mercy"
+    ],
+    "hero": "MERCY",
+    "artist": "holyknight3000",
+    "artist_site": "http://holyknight3000.deviantart.com/"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/mercy_intro_1.jpg",
     "tags": [
       "mercy"
