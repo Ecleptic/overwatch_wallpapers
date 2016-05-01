@@ -38,6 +38,8 @@ h4 {
 
 input, #searchTextTitle {
     font-size: 200%;
+    float: right;
+    margin-right: 8px;
 }
 
 .container {
