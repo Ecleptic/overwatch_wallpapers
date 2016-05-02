@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html ng-app="OverPapers">
+<head>
+    <title>Wallpapers for Overwatch</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="assets/images/favicon.png"/>
+
+</head>
+<body ng-controller="overController">
+<nav class="flexy-nav">
+    <input id="searchTextBox" class="flexy-nav__search" type="search" ng-model="searchText"
+           ng-change="searchTextChanged()"
+           placeholder="search wallpapers..."/>
+    <text id="searchTextTitle">Wallpaper Search:</text>
+
+</nav>
+<div class="container">
+    <div>
+        <ul class="animate-repeat flex-container">
+            <li class="flex-item" ng-repeat="object in matchedImages">
+                <text id="heroText">{{object.hero}}</text>
+                <a href="{{object.src}}">
+                    <img class="img-responsive" style="width:80%;height:auto;"
+                         ng-src="{{object.src}}">
+                </a>
+                <a href="{{object.artist_site}}">
+                    <text id="artistTitle" ng-show="object.artist">Artist:</text>
+                    <text id="artistText">{{object.artist}}</text>
+                </a>
+            </li>
+            <li class="animate-repeat" ng-if="results.length == 0">
+                <strong>No results found...</strong>
+            </li>
+        </ul>
+    </div>
+</div>
+<div ng-hide="showBody">
+    <div>
+        <div class="top_filler">
+            <a href="https://mega.nz/#!fgEnFYzY!RzXpnyQrAvOUt0ljv1fKnbkEMeVdsBvFszURmSlwZ6E" target='_blank'
+               class="link">
+                <div class="download">
+                    <h4>Download All Wallpapers</h4>
+                </div>
+            </a>
+        </div>
+        <div class="entry" ng-repeat="heroIcon in heroes" style="padding-left: 3px;padding-right: 3px;"
+             ng-click="selectHero(heroIcon.name)">
+            <img ng-src="assets/images/index_images/{{heroIcon.name}}.jpg" class="icon" alt="{{heroIcon.name}}"/>
+            <h4>{{heroIcon.name}}</h4>
+        </div>
+
+        <div class="entry" style="padding-left: 3px;padding-right: 3px;" ng-click="selectHero('miscellaneous')">
+            <img src="assets/images/index_images/logo.jpg" class="icon" alt="Miscellaneous"/>
+            <h4>Miscellaneous</h4>
+        </div>
+        <div class="entry" style="padding-left: 3px;padding-right: 3px;" ng-click="selectHero('')">
+            <img src="assets/images/index_images/logo.jpg" class="icon" alt="All"/>
+            <h4>All</h4>
+        </div>
+
+        <div class="bottom">
+            <p id="disclaimer">Overwatch Wallpapers isn't endorsed by Blizzard and
+                doesn't reflect the views or opinions of Blizzard or anyone officially
+                involved in producing or managing Overwatch.
+                <br><br>
+                Style of main page inspired by <a href="http://rpboyer15.github.io/sounds-of-overwatch/">Sounds of
+                    Overwatch</a>
+                created by rpboyer15
+                <br><br>
+                These wallpapers have been found accross the internet. This page is not claiming ownership of any of the
+                art.
+                If you would like to add or remove your art from this page please email me at
+                <a href="mailto:overwatchWallpapers@gmail.com">OverwatchWallpapers@gmail.com</a>
+            </p>
+
+        </div>
+    </div>
+</div>
+</body>
+
+<script src="assets/js/angular.min.js"></script>
+<script src="assets/js/angular-animate.min.js"></script>
+<script type="text/javascript" src="app.js"></script>
+</html>

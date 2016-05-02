@@ -1,0 +1,122 @@
+@font-face {
+    font-family: 'big_noodle_titling_oblique';
+    src: url(../fonts/big_noodle_titling_oblique.ttf);
+    src: url(../fonts/big_noodle_titling.ttf);
+}
+
+ul {
+    list-style-type: none;
+}
+
+html {
+    font-family: big_noodle_titling_oblique, BigNoodleTitling, serif, Arial;
+}
+
+body {
+    /*font-size: 8em;*/
+    font-family: big_noodle_titling_oblique, BigNoodleTitling, serif, Arial;
+    /*background-color: #808080;*/
+}
+
+h4 {
+    font-size: 2.4em;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+#artistText, #artistTitle {
+    color: #fa9c1e;
+    /*font-size: .4em;*/
+}
+
+#heroText {
+    /*font-size: .5em;*/
+
+}
+
+input, #searchTextTitle {
+    font-size: 200%;
+    float: right;
+    margin-right: 8px;
+}
+
+.container {
+    display: flex; /* or inline-flex */
+    /*background-color: black;*/
+}
+
+.flexy-nav__search {
+    display: block;
+    margin: 0;
+    padding: 0 4px;
+    width: 100%;
+    height: 48px;
+    color: #6d6d6d;
+    background-color: #fff;
+    border: solid 2px #e7e7e7;
+    float: right;
+}
+
+.flexy-nav__search:focus {
+    outline: none;
+    border: solid 2px #6d6d6d;
+}
+
+/* media queries */
+
+@media all and (min-width: 768px) {
+    .flexy-nav {
+        flex-direction: row;
+    }
+
+    .flexy-nav__items {
+        display: flex;
+        flex-direction: row;
+        margin: 0;
+        padding: 0;
+        /*height: 48px;*/
+    }
+
+    .flexy-nav__item {
+        flex: 1;
+        margin-right: 4px;
+        border-bottom: none;
+    }
+
+    .flexy-nav__search {
+        width: 240px;
+        transition: width 0.3s;
+    }
+
+    .flexy-nav__search:focus {
+        width: 360px;
+    }
+}
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.flex-item {
+    /*background: darkslateblue;*/
+    padding: 5px;
+    width: 250px;
+    height: auto;
+    margin-top: 10px;
+    /*line-height: 150px;*/
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: left;
+}
