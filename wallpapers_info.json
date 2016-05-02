@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/bastion_action_pose.png",
     "tags": [
       "bastion"
@@ -21,6 +22,10 @@
     "src": "assets/images/overwatch_wallpaper_images/bastion_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
+=======
+    "src": "assets/images/overwatch_wallpaper_images/bastion_background_1.png",
+    "artist": "/u/PT-Desu",
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "tags": [
       "bastion"
     ],
@@ -214,6 +219,7 @@
     "artist_site": "http://us.battle.net/overwatch/en/heroes/dva/"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/dva_valkia_1.jpg",
     "tags": [
       "D.Va",
@@ -232,6 +238,8 @@
     "artist_site": "http://mikoyanx.deviantart.com/"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/genji_intro_1.jpg",
     "tags": [
       "genji"
@@ -371,6 +379,7 @@
     "hero": "GENJI"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/genji_valkia_1.jpg",
     "tags": [
       "genji",
@@ -380,6 +389,8 @@
     "artist": "valkia"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/genji_vector.png",
     "tags": [
       "genji",
@@ -413,8 +424,12 @@
       "hanzo"
     ],
     "hero": "HANZO",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_intro_1.jpg",
@@ -426,6 +441,7 @@
     "artist_site": "http://www.livewirehd.co.uk/?page_id=156"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/hanzo_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
@@ -435,6 +451,8 @@
     "hero": "hanzo"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/hanzo_moves_scrolls.png",
     "artist": "/u/rangaming",
     "tags": [
@@ -598,6 +616,7 @@
     "artist": "/u/rangaming"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/hanzo_valkia_1.jpg",
     "tags": [
       "hanzo"
@@ -606,6 +625,8 @@
     "artist": "valkia"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/junkrat_intro_1.jpg",
     "tags": [
       "junkrat"
@@ -674,6 +695,7 @@
     "artist": "/u/dxhhh101"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/junkrat_valkia_1.jpg",
     "tags": [
       "junkrat"
@@ -682,6 +704,8 @@
     "artist": "valkia"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/logo_burst_standard.jpg",
     "tags": [
     ],
@@ -722,6 +746,7 @@
     "artist": "/u/dxhhh101"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/lucio_valkia_1.jpg",
     "tags": [
       "lucio"
@@ -836,6 +861,8 @@
     "hero": "mccree"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/mccree_intro_1.jpg",
     "tags": [
       "mccree"
@@ -935,6 +962,7 @@
     "artist": "/u/rangaming"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/mccree_valkia_1.jpg",
     "tags": [
       "mccree"
@@ -943,6 +971,8 @@
     "artist": "valkia"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/mei_intro_1.jpg",
     "tags": [
       "mei"
@@ -1018,6 +1048,7 @@
     "artist": "/u/dxhhh101"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/mei_valkia_1.jpg",
     "tags": [
       "mei"
@@ -1035,11 +1066,14 @@
     "artist_site": "http://mikoyanx.deviantart.com/"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/mercy_background_1.png",
     "tags": [
       "mercy"
     ],
     "hero": "MERCY",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
   },
@@ -1051,6 +1085,9 @@
       "mercy"
     ],
     "hero": "mercy"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_holyknight3000.jpg",
@@ -1137,6 +1174,7 @@
     "hero": "MERCY"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/mercy_valkia_1.jpg",
     "tags": [
       "mercy"
@@ -1145,6 +1183,8 @@
     "artist": "valkia"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/mercy_vector_art.png",
     "tags": [
       "mercy",
@@ -1187,6 +1227,7 @@
     "hero": "miscellaneous"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/pharah_action_pose.png",
     "tags": [
       "pharah"
@@ -1196,11 +1237,14 @@
     "artist_site": "http://mikoyanx.deviantart.com/"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/pharah_background.png",
     "tags": [
       "pharah"
     ],
     "hero": "PHARAH",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
   },
@@ -1212,6 +1256,9 @@
       "pharah"
     ],
     "hero": "pharah"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_intro_1.jpg",
@@ -1249,6 +1296,7 @@
     "hero": "PHARAH"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/pharah_potg_saying.png",
     "tags": [
       "pharah"
@@ -1258,6 +1306,8 @@
     "artist_site": "http://pt-desu.deviantart.com/"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/pharah_saying_dark_1.png",
     "tags": [
       "pharah"
@@ -1290,6 +1340,7 @@
     "hero": "PHARAH"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/Pharah_valkia_1.jpg",
     "tags": [
       "Pharah"
@@ -1308,21 +1359,43 @@
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_background_1.png",
+=======
+    "src": "assets/images/overwatch_wallpaper_images/reaper_background_1.png",
     "tags": [
       "reaper"
     ],
     "hero": "REAPER",
+    "artist": "/u/PT-Desu"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/reaper_background_1_2560x1440.jpg",
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
+    "tags": [
+      "reaper"
+    ],
+    "hero": "REAPER",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_background_1_2560x1440.jpg",
+=======
+    "artist": "/u/PT-Desu"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/reaper_background_2.png",
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "tags": [
       "reaper"
     ],
     "hero": "REAPER",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_black_wings.jpg",
@@ -1340,6 +1413,7 @@
     "artist": "/u/dxhhh101"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/reaper_glare_1.png",
     "tags": [
       "reaper"
@@ -1349,6 +1423,8 @@
     "artist_site": "http://lar-zen.deviantart.com/"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/reaper_holyknight3000.jpg",
     "tags": [
       "reaper"
@@ -1431,6 +1507,7 @@
     "artist_site": "http://prollgurke.deviantart.com/"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_action_pose.png",
     "tags": [
       "reinhardt"
@@ -1440,13 +1517,19 @@
     "artist_site": "http://mikoyanx.deviantart.com/"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_background_1.png",
     "tags": [
       "reinhardt"
     ],
     "hero": "REINHARDT",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_background_2.png",
@@ -1454,6 +1537,7 @@
       "reinhardt"
     ],
     "hero": "REINHARDT",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
   },
@@ -1465,6 +1549,9 @@
       "reinhardt"
     ],
     "hero": "reinhardt"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_intro_1.jpg",
@@ -1484,6 +1571,7 @@
     "hero": "REINHARDT"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_potg_saying.png",
     "tags": [
       "reinhardt"
@@ -1493,6 +1581,8 @@
     "artist_site": "http://pt-desu.deviantart.com/"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_saying_dark_1.png",
     "tags": [
       "reinhardt"
@@ -1525,6 +1615,7 @@
     "hero": "REINHARDT"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_valkia_1.jpg",
     "tags": [
       "reinhardt"
@@ -1533,6 +1624,8 @@
     "artist": "valkia"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/roadhog_intro_1.jpg",
     "tags": [
       "roadhog"
@@ -1571,14 +1664,19 @@
     "tags": [
       "roadhog"
     ],
+<<<<<<< HEAD
     "hero": "ROADHOG",
     "artist": "/u/woodahooda "
+=======
+    "hero": "ROADHOG"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/roadhog_silhouette_words.png",
     "tags": [
       "roadhog"
     ],
+<<<<<<< HEAD
     "hero": "ROADHOG",
     "artist": "/u/woodahooda "
   },
@@ -1590,6 +1688,9 @@
     "hero": "Soldier 76",
     "artist": "mikoyanx",
     "artist_site": "http://mikoyanx.deviantart.com/"
+=======
+    "hero": "ROADHOG"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_intro_1.jpg",
@@ -1683,24 +1784,39 @@
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_mobile_1.png",
     "tags": [
+<<<<<<< HEAD
       "Soldier 76",
       "mobile"
     ],
     "hero": "Soldier 76",
+=======
+      "soldier",
+      "mobile"
+    ],
+    "hero": "soldier",
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "artist": "/u/dxhhh101"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_mobile_2.png",
     "tags": [
+<<<<<<< HEAD
       "Soldier 76",
       "mobile"
     ],
     "hero": "Soldier 76",
+=======
+      "soldier",
+      "mobile"
+    ],
+    "hero": "soldier",
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "artist": "/u/dxhhh101"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_mobile_3.png",
     "tags": [
+<<<<<<< HEAD
       "Soldier 76",
       "mobile"
     ],
@@ -1716,11 +1832,21 @@
     "artist": "valkia"
   },
   {
+=======
+      "soldier",
+      "mobile"
+    ],
+    "hero": "soldier",
+    "artist": "/u/dxhhh101"
+  },
+  {
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/symmetra_background_1.png",
     "tags": [
       "symmetra"
     ],
     "hero": "SYMMETRA",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
   },
@@ -1732,6 +1858,9 @@
       "symmetra"
     ],
     "hero": "symmetra"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/symmetra_intro_1.jpg",
@@ -1824,6 +1953,7 @@
     "hero": "TORBJORN"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/tracer_action_pose.png",
     "tags": [
       "tracer"
@@ -1831,6 +1961,13 @@
     "hero": "tracer",
     "artist": "mikoyanx",
     "artist_site": "http://mikoyanx.deviantart.com/"
+=======
+    "src": "assets/images/overwatch_wallpaper_images/torbjorn_screenshot_1.jpg",
+    "tags": [
+      "torbjorn"
+    ],
+    "hero": "TORBJORN"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_background_1.png",
@@ -1838,8 +1975,12 @@
       "tracer"
     ],
     "hero": "TRACER",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_controller_art.jpg",
@@ -1849,6 +1990,7 @@
     "hero": "TRACER"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/tracer_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
@@ -1858,6 +2000,8 @@
     "hero": "tracer"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/tracer_intro_1.jpg",
     "tags": [
       "tracer"
@@ -2017,6 +2161,7 @@
     "hero": "TRACER"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/Tracer_valkia_1.jpg",
     "tags": [
       "Tracer"
@@ -2025,6 +2170,8 @@
     "artist": "valkia"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/tracer_spotlight_no_text.png",
     "tags": [
       "tracer"
@@ -2041,6 +2188,7 @@
     "hero": "TRACER"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_action_pose.png",
     "tags": [
       "widowmaker"
@@ -2058,6 +2206,8 @@
     "artist": "valkia"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_sniper.jpg",
     "tags": [
       "Widowmaker"
@@ -2070,6 +2220,7 @@
       "Widowmaker"
     ],
     "hero": "WIDOWMAKER",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
   },
@@ -2090,6 +2241,9 @@
       "widowmaker"
     ],
     "hero": "widowmaker"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_intro_1.jpg",
@@ -2148,6 +2302,7 @@
       "winston"
     ],
     "hero": "WINSTON",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
   },
@@ -2159,6 +2314,9 @@
       "winston"
     ],
     "hero": "winston"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/winston_intro_1.jpg",
@@ -2202,6 +2360,7 @@
     "hero": "WINSTON"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/winston_valkia_1.jpg",
     "tags": [
       "winston"
@@ -2219,6 +2378,8 @@
     "hero": "zarya"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/zarya_intro_1.jpg",
     "tags": [
       "zarya"
@@ -2253,6 +2414,7 @@
     "artist": "/u/dxhhh101"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/zarya_valkia_1.jpg",
     "tags": [
       "zarya"
@@ -2270,11 +2432,14 @@
     "artist_site": "http://mikoyanx.deviantart.com/"
   },
   {
+=======
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_background_1.png",
     "tags": [
       "zenyatta"
     ],
     "hero": "ZENYATTA",
+<<<<<<< HEAD
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/"
   },
@@ -2286,6 +2451,9 @@
       "zenyatta"
     ],
     "hero": "zenyatta"
+=======
+    "artist": "/u/PT-Desu"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_intro_1.jpg",
@@ -2364,6 +2532,7 @@
     "artist": "/u/dxhhh101"
   },
   {
+<<<<<<< HEAD
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_screenshot.jpg",
     "tags": [
       "zenyatta"
@@ -2377,5 +2546,21 @@
     ],
     "hero": "zenyatta",
     "artist": "valkia"
+=======
+    "src": "assets/images/overwatch_wallpaper_images/zenyatta_saying_mobile_2.png",
+    "tags": [
+      "zenyatta",
+      "mobile"
+    ],
+    "hero": "zenyatta",
+    "artist": "/u/dxhhh101"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/zenyatta_screenshot.jpg",
+    "tags": [
+      "zenyatta"
+    ],
+    "hero": "ZENYATTA"
+>>>>>>> 44debe1f630ce43c01e517ef98bfc0ae54020b85
   }
 ]

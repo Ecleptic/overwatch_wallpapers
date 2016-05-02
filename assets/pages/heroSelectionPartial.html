@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html ng-app="OverPapers">
+<head>
+    <meta charset="UTF-8">
+    <title>{{heroSelected}}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/app.css">
+    <link rel="stylesheet" href="../css/heroSelection.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="../images/favicon.png"/>
+</head>
+<body ng-controller="heroController">
+<div class="container">
+
+    <div>
+        <h1 class="text-center">{{heroSelected}}</h1>
+        <ul class="flex-container">
+            <div>
+                <ul class="animate-repeat flex-container">
+                    <li class="flex-item" ng-repeat="object in paperList">
+                        <text id="heroText">{{object.hero}}</text>
+                        <a href="{{object.src}}">
+                            <img class="img-responsive" style="width:80%;height:auto;"
+                                 ng-src="{{object.src}}">
+                        </a>
+                        <a href="{{object.artist_site}}">
+                            <text id="artistTitle" ng-show="object.artist">Artist:</text>
+                            <text id="artistText">{{object.artist}}</text>
+                        </a>
+                    </li>
+                    <li class="animate-repeat" ng-if="results.length == 0">
+                        <strong>No results found...</strong>
+                    </li>
+                </ul>
+            </div>
+        </ul>
+    </div>
+</div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.js"></script>
+<script type="text/javascript" src="../../js/app.js"></script>
+</html>

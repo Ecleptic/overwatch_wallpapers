@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html ng-app="uploadImages">
+<head>
+    <meta charset="UTF-8">
+    <title>Wallpapers for Overwatch</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="../images/favicon.png"/>
+</head>
+<body>
+<div ng-controller="Ctrl">
+    <input type="file" file-upload multiple/>
+    <ul>
+        <li ng-repeat="file in files">{{file.name}}</li>
+    </ul>
+</div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.js"></script>
+<script type="text/javascript" src="../../js/upload.js"></script>
+</html>
