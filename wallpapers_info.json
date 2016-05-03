@@ -220,7 +220,8 @@
       "dva"
     ],
     "hero": "D.VA",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_action_pose.png",
@@ -377,7 +378,8 @@
       "genji"
     ],
     "hero": "genji",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_vector.png",
@@ -603,7 +605,8 @@
       "hanzo"
     ],
     "hero": "hanzo",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_intro_1.jpg",
@@ -679,7 +682,8 @@
       "junkrat"
     ],
     "hero": "junkrat",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/logo_burst_standard.jpg",
@@ -727,7 +731,8 @@
       "lucio"
     ],
     "hero": "lucio",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/map_gibraltar_1.png",
@@ -940,7 +945,8 @@
       "mccree"
     ],
     "hero": "mccree",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_intro_1.jpg",
@@ -1023,7 +1029,8 @@
       "mei"
     ],
     "hero": "mei",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_action_pose.png",
@@ -1142,7 +1149,8 @@
       "mercy"
     ],
     "hero": "mercy",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_vector_art.png",
@@ -1295,7 +1303,8 @@
       "Pharah"
     ],
     "hero": "Pharah",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_action_pose.png",
@@ -1530,7 +1539,8 @@
       "reinhardt"
     ],
     "hero": "reinhardt",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/roadhog_intro_1.jpg",
@@ -1713,7 +1723,8 @@
       "Soldier 76"
     ],
     "hero": "Soldier 76",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/symmetra_background_1.png",
@@ -2022,7 +2033,8 @@
       "Tracer"
     ],
     "hero": "Tracer",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_spotlight_no_text.png",
@@ -2055,7 +2067,8 @@
       "widowmaker"
     ],
     "hero": "widowmaker",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_sniper.jpg",
@@ -2207,7 +2220,8 @@
       "winston"
     ],
     "hero": "winston",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zarya_glow.jpg",
@@ -2258,7 +2272,8 @@
       "zarya"
     ],
     "hero": "zarya",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_action_pose.png",
@@ -2376,6 +2391,7 @@
       "zenyatta"
     ],
     "hero": "zenyatta",
-    "artist": "valkia"
+    "artist": "valkia",
+    "artist_site": "http://www.youtube.com/valkia"
   }
 ]
