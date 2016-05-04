@@ -1,4 +1,8 @@
 # !/bin/bash
+
+# Using imagemagick's convert -thumbnail script, we're creating thumbnails for
+# all images in the folder and placing them in a directory one step above called thumbs
+
 originalfile=*;
 mkdir -p ../thumbs;
 for i in $originalfile'.png';
