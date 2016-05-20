@@ -20,6 +20,16 @@
     "thb": "assets/images/thumbs/bastion_background_1_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/bastion_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "bastion"
+    ],
+    "hero": "BASTION",
+    "thb": "assets/images/thumbs/bastion_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/bastion_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
