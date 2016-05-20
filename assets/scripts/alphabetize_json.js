@@ -14,7 +14,7 @@ function sorting(json_object, key_to_sort_by) {
 
     json_object.sort(sortByKey);
     // console.log(json_object);
-
+    //
     jsonfile.writeFile(file,json_object, {spaces: 2},function (err) {
       console.log(err);
     })

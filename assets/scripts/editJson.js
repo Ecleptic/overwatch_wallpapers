@@ -1,6 +1,6 @@
 var jsonfile = require('jsonfile')
 var file = 'wallpapers_info.json'
-var file2 = 'wallpapers_info2.json'
+// var file2 = 'wallpapers_info2.json'
 var newobj
 
 jsonfile.readFile(file, function(err, obj) {
