@@ -17,6 +17,6 @@ done
 for i in $originalfile'.jpg';
 do
   z=${i%.jpg}
-  echo "converting"$z".jpg";
+  echo "converting "$z".jpg";
 convert -thumbnail 200 $i  "../thumbs/"$z"_thumb.jpg"
 done
