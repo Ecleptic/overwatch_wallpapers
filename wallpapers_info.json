@@ -135,15 +135,14 @@
     "thb": "assets/images/thumbs/bastion_screenshot_1_thumb.jpg"
   },
   {
-    "src": "assets/images/overwatch_wallpaper_images/dva_holyknight3000_2.jpg",
+    "src": "assets/images/overwatch_wallpaper_images/bastion_title_fmr_1.png",
     "tags": [
-      "D.Va",
-      "dva"
+      "bastion"
     ],
-    "hero": "D.VA",
-    "artist": "Holyknight3000",
-    "artist_site": "http://holyknight3000.deviantart.com/",
-    "thb": "assets/images/thumbs/dva_holyknight3000_2_thumb.jpg"
+    "hero": "BASTION",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/bastion_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_holyknight3000.jpg",
@@ -155,6 +154,17 @@
     "artist": "Holyknight3000",
     "artist_site": "http://holyknight3000.deviantart.com/",
     "thb": "assets/images/thumbs/dva_holyknight3000_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/dva_holyknight3000_2.jpg",
+    "tags": [
+      "D.Va",
+      "dva"
+    ],
+    "hero": "D.VA",
+    "artist": "Holyknight3000",
+    "artist_site": "http://holyknight3000.deviantart.com/",
+    "thb": "assets/images/thumbs/dva_holyknight3000_2_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_icon_karp_1.png",
@@ -316,6 +326,16 @@
     "artist": "/u/kingsblade",
     "artist_site": "http://us.battle.net/overwatch/en/heroes/dva/",
     "thb": "assets/images/thumbs/dva_snapshot_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/dva_title_fmr_1.png",
+    "tags": [
+      "dva"
+    ],
+    "hero": "DVA",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/dva_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/dva_valkia_1.jpg",
@@ -523,6 +543,16 @@
     ],
     "hero": "GENJI",
     "thb": "assets/images/thumbs/genji_theatrical_standard_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/genji_title_fmr_1.png",
+    "tags": [
+      "genji"
+    ],
+    "hero": "GENJI",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/genji_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_valkia_1.jpg",
@@ -810,6 +840,16 @@
     "thb": "assets/images/thumbs/hanzo_simple_saying_2_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_title_fmr_1.png",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/hanzo_title_fmr_1_thumb.png"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_valkia_1.jpg",
     "tags": [
       "hanzo"
@@ -916,6 +956,16 @@
     "thb": "assets/images/thumbs/junkrat_saying_mobile_1_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/junkrat_title_fmr_1.png",
+    "tags": [
+      "junkrat"
+    ],
+    "hero": "JUNKRAT",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/junkrat_title_fmr_1_thumb.png"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_valkia_1.jpg",
     "tags": [
       "junkrat"
@@ -998,6 +1048,16 @@
     "hero": "lucio",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/lucio_saying_mobile_1_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/lucio_title_fmr_1.png",
+    "tags": [
+      "lucio"
+    ],
+    "hero": "LUCIO",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/lucio_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/lucio_valkia_1.jpg",
@@ -1287,6 +1347,16 @@
     "thb": "assets/images/thumbs/mccree_simple_saying_1_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/mccree_title_fmr_1.png",
+    "tags": [
+      "mccree"
+    ],
+    "hero": "MCCREE",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/mccree_title_fmr_1_thumb.png"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/mccree_valkia_1.jpg",
     "tags": [
       "mccree"
@@ -1295,6 +1365,16 @@
     "artist": "valkia",
     "artist_site": "http://www.youtube.com/valkia",
     "thb": "assets/images/thumbs/mccree_valkia_1_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/mei_icon_karp_1.png",
+    "artist": "MurderKarp",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
+    "tags": [
+      "mei"
+    ],
+    "hero": "mei",
+    "thb": "assets/images/thumbs/mei_icon_karp_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_intro_1.jpg",
@@ -1342,25 +1422,16 @@
     "hero": "MEI",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/mei_saying_dark_3_thumb.png"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/mei_saying_icon_karp_1.png",
-  "artist": "MurderKarp",
-  "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
-  "tags": [
-    "mei"
-  ],
-  "hero": "MEI",
-  "thb": "assets/images/thumbs/mei_saying_icon_karp_1_thumb.png"
-},
+  },
   {
-    "src": "assets/images/overwatch_wallpaper_images/mei_icon_karp_1.png",
+    "src": "assets/images/overwatch_wallpaper_images/mei_saying_icon_karp_1.png",
     "artist": "MurderKarp",
     "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
     "tags": [
       "mei"
     ],
-    "hero": "mei",
-    "thb": "assets/images/thumbs/mei_icon_karp_1_thumb.png"
+    "hero": "MEI",
+    "thb": "assets/images/thumbs/mei_saying_icon_karp_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_saying_light_1.png",
@@ -1408,6 +1479,16 @@
     "hero": "mei",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/mei_saying_mobile_2_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/mei_title_fmr_1.png",
+    "tags": [
+      "mei"
+    ],
+    "hero": "MEI",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/mei_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mei_valkia_1.jpg",
@@ -1584,6 +1665,16 @@
     "thb": "assets/images/thumbs/mercy_theatrical_standard_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/mercy_title_fmr_1.png",
+    "tags": [
+      "mercy"
+    ],
+    "hero": "MERCY",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/mercy_title_fmr_1_thumb.png"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/mercy_valkia_1.jpg",
     "tags": [
       "mercy"
@@ -1625,20 +1716,20 @@
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_mobile_ogreone_1.jpg",
     "tags": [
-      "overwatch",
+      "miscellaneous",
       "mobile"
     ],
-    "hero": "overwatch",
+    "hero": "miscellaneous",
     "artist": "/u/ogreone_1",
     "thb": "assets/images/thumbs/overwatch_mobile_ogreone_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/overwatch_mobile_ogreone_1.jpg",
     "tags": [
-      "miscellaneous",
+      "overwatch",
       "mobile"
     ],
-    "hero": "miscellaneous",
+    "hero": "overwatch",
     "artist": "/u/ogreone_1",
     "thb": "assets/images/thumbs/overwatch_mobile_ogreone_1_thumb.jpg"
   },
@@ -1770,16 +1861,17 @@
     "hero": "PHARAH",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/pharah_saying_dark_1_thumb.png"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/pharah_saying_icon_karp_1.png",
-  "artist": "MurderKarp",
-  "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
-  "tags": [
-    "pharah"
-  ],
-  "hero": "PHARAH",
-  "thb": "assets/images/thumbs/pharah_saying_icon_karp_1_thumb.png"
-},
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/pharah_saying_icon_karp_1.png",
+    "artist": "MurderKarp",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
+    "tags": [
+      "pharah"
+    ],
+    "hero": "PHARAH",
+    "thb": "assets/images/thumbs/pharah_saying_icon_karp_1_thumb.png"
+  },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_saying_light_1.png",
     "tags": [
@@ -1806,6 +1898,16 @@
     ],
     "hero": "PHARAH",
     "thb": "assets/images/thumbs/pharah_screenshot_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/pharah_title_fmr_1.png",
+    "tags": [
+      "pharah"
+    ],
+    "hero": "PHARAH",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/pharah_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/pharah_valkia_1.jpg",
@@ -1948,16 +2050,17 @@
     "hero": "REAPER",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/reaper_saying_dark_2_thumb.png"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/reaper_saying_icon_karp_1.png",
-  "artist": "MurderKarp",
-  "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
-  "tags": [
-    "reaper"
-  ],
-  "hero": "REAPER",
-  "thb": "assets/images/thumbs/reaper_saying_icon_karp_1_thumb.png"
-},
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/reaper_saying_icon_karp_1.png",
+    "artist": "MurderKarp",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
+    "tags": [
+      "reaper"
+    ],
+    "hero": "REAPER",
+    "thb": "assets/images/thumbs/reaper_saying_icon_karp_1_thumb.png"
+  },
   {
     "src": "assets/images/overwatch_wallpaper_images/reaper_saying_light_1.png",
     "tags": [
@@ -1994,6 +2097,16 @@
     "artist": "Prollgurke",
     "artist_site": "http://prollgurke.deviantart.com/",
     "thb": "assets/images/thumbs/reaper_time_to_reap_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/reaper_title_fmr_1.png",
+    "tags": [
+      "reaper"
+    ],
+    "hero": "REAPER",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/reaper_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_action_pose.png",
@@ -2092,16 +2205,17 @@
     "hero": "REINHARDT",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/reinhardt_saying_dark_1_thumb.png"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/reinhardt_saying_icon_karp_1.png",
-  "artist": "MurderKarp",
-  "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
-  "tags": [
-    "reinhardt"
-  ],
-  "hero": "REINHARDT",
-  "thb": "assets/images/thumbs/reinhardt_saying_icon_karp_1_thumb.png"
-},
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/reinhardt_saying_icon_karp_1.png",
+    "artist": "MurderKarp",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
+    "tags": [
+      "reinhardt"
+    ],
+    "hero": "REINHARDT",
+    "thb": "assets/images/thumbs/reinhardt_saying_icon_karp_1_thumb.png"
+  },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_saying_light_1.png",
     "tags": [
@@ -2128,6 +2242,16 @@
     ],
     "hero": "REINHARDT",
     "thb": "assets/images/thumbs/reinhardt_screenshot_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/reinhardt_title_fmr_1.png",
+    "tags": [
+      "reinhardt"
+    ],
+    "hero": "REINHARDT",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/reinhardt_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_valkia_1.jpg",
@@ -2204,6 +2328,16 @@
     "hero": "ROADHOG",
     "artist": "/u/woodahooda ",
     "thb": "assets/images/thumbs/roadhog_silhouette_words_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/roadhog_title_fmr_1.png",
+    "tags": [
+      "roadhog"
+    ],
+    "hero": "ROADHOG",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/roadhog_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_action_pose.png",
@@ -2289,16 +2423,17 @@
     "hero": "SOLDIER 76",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/soldier_saying_dark_5_thumb.png"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/soldier_saying_icon_karp_1.png",
-  "artist": "MurderKarp",
-  "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
-  "tags": [
-    "soldier 76"
-  ],
-  "hero": "SOLDIER",
-  "thb": "assets/images/thumbs/soldier_saying_icon_karp_1_thumb.png"
-},
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/soldier_saying_icon_karp_1.png",
+    "artist": "MurderKarp",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
+    "tags": [
+      "soldier 76"
+    ],
+    "hero": "SOLDIER",
+    "thb": "assets/images/thumbs/soldier_saying_icon_karp_1_thumb.png"
+  },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_saying_light_1.png",
     "tags": [
@@ -2373,6 +2508,16 @@
     "hero": "Soldier 76",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/soldier_saying_mobile_3_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/soldier_title_fmr_1.png",
+    "tags": [
+      "soldier"
+    ],
+    "hero": "SOLDIER 76",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/soldier_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_valkia_1.jpg",
@@ -2471,6 +2616,16 @@
     "thb": "assets/images/thumbs/symmetra_screenshot_1_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/symmetra_title_fmr_1.png",
+    "tags": [
+      "symmetra"
+    ],
+    "hero": "SYMMETRA",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/symmetra_title_fmr_1_thumb.png"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_background_1.png",
     "tags": [
       "torbjorn"
@@ -2537,16 +2692,17 @@
     "hero": "TORBJORN",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/torbjorn_saying_dark_1_thumb.png"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/torbjorn_saying_icon_karp_1.png",
-  "artist": "MurderKarp",
-  "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
-  "tags": [
-    "torbjorn"
-  ],
-  "hero": "TORBJORN",
-  "thb": "assets/images/thumbs/torbjorn_saying_icon_karp_1_thumb.png"
-},
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/torbjorn_saying_icon_karp_1.png",
+    "artist": "MurderKarp",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
+    "tags": [
+      "torbjorn"
+    ],
+    "hero": "TORBJORN",
+    "thb": "assets/images/thumbs/torbjorn_saying_icon_karp_1_thumb.png"
+  },
   {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_saying_light_1.png",
     "tags": [
@@ -2575,6 +2731,16 @@
     "thb": "assets/images/thumbs/torbjorn_screenshot_1_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/torbjorn_title_fmr_1.png",
+    "tags": [
+      "torbjorn"
+    ],
+    "hero": "TORBJORN",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/torbjorn_title_fmr_1_thumb.png"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/tracer_action_pose.png",
     "tags": [
       "tracer"
@@ -2601,25 +2767,27 @@
     ],
     "hero": "TRACER",
     "thb": "assets/images/thumbs/tracer_controller_art_thumb.jpg"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/tracer_fanart_holyknight3000.jpg",
-  "tags": [
-    "Tracer"
-  ],
-  "hero": "Tracer",
-  "artist": "Holyknight3000",
-  "artist_site": "http://holyknight3000.deviantart.com/",
-  "thb": "assets/images/thumbs/dva_holyknight3000_thumb.jpg"
-},{
-  "src": "assets/images/overwatch_wallpaper_images/tracer_fanart_jeremychong.jpg",
-  "tags": [
-    "tracer"
-  ],
-  "hero": "tracer",
-  "artist": "Jeremy Chong",
-  "artist_site": "http://holyknight3000.deviantart.com/",
-  "thb": "assets/images/thumbs/tracer_fanart_jeremychong_thumb.jpg"
-},
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/tracer_fanart_holyknight3000.jpg",
+    "tags": [
+      "Tracer"
+    ],
+    "hero": "Tracer",
+    "artist": "Holyknight3000",
+    "artist_site": "http://holyknight3000.deviantart.com/",
+    "thb": "assets/images/thumbs/dva_holyknight3000_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/tracer_fanart_jeremychong.jpg",
+    "tags": [
+      "tracer"
+    ],
+    "hero": "tracer",
+    "artist": "Jeremy Chong",
+    "artist_site": "http://holyknight3000.deviantart.com/",
+    "thb": "assets/images/thumbs/tracer_fanart_jeremychong_thumb.jpg"
+  },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_glow.jpg",
     "artist": "elexysvi",
@@ -2858,6 +3026,16 @@
     "thb": "assets/images/thumbs/tracer_spotlight_no_text_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/tracer_title_fmr_1.png",
+    "tags": [
+      "tracer"
+    ],
+    "hero": "TRACER",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/tracer_title_fmr_1_thumb.png"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/tracer_valkia_1.jpg",
     "tags": [
       "Tracer"
@@ -2974,16 +3152,17 @@
     "hero": "WIDOWMAKER",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/widowmaker_saying_dark_1_thumb.png"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/widowmaker_saying_icon_karp_1.png",
-  "artist": "MurderKarp",
-  "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
-  "tags": [
-    "widowmaker"
-  ],
-  "hero": "WIDOWMAKER",
-  "thb": "assets/images/thumbs/widowmaker_saying_icon_karp_1_thumb.png"
-},
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_saying_icon_karp_1.png",
+    "artist": "MurderKarp",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
+    "tags": [
+      "widowmaker"
+    ],
+    "hero": "WIDOWMAKER",
+    "thb": "assets/images/thumbs/widowmaker_saying_icon_karp_1_thumb.png"
+  },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_saying_light_1.png",
     "tags": [
@@ -3010,6 +3189,16 @@
     ],
     "hero": "WIDOWMAKER",
     "thb": "assets/images/thumbs/widowmaker_sniper_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_title_fmr_1.png",
+    "tags": [
+      "widowmaker"
+    ],
+    "hero": "WIDOWMAKER",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/widowmaker_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_valkia_1.jpg",
@@ -3108,6 +3297,16 @@
     "thb": "assets/images/thumbs/winston_screenshot_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/winston_title_fmr_1.png",
+    "tags": [
+      "winston"
+    ],
+    "hero": "WINSTON",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/winston_title_fmr_1_thumb.png"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/winston_valkia_1.jpg",
     "tags": [
       "winston"
@@ -3165,16 +3364,17 @@
     "hero": "ZARYA",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/zarya_saying_dark_1_thumb.png"
-  },{
-  "src": "assets/images/overwatch_wallpaper_images/zarya_saying_icon_karp_1.png",
-  "artist": "MurderKarp",
-  "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
-  "tags": [
-    "zarya"
-  ],
-  "hero": "ZARYA",
-  "thb": "assets/images/thumbs/zarya_saying_icon_karp_1_thumb.png"
-},
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/zarya_saying_icon_karp_1.png",
+    "artist": "MurderKarp",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
+    "tags": [
+      "zarya"
+    ],
+    "hero": "ZARYA",
+    "thb": "assets/images/thumbs/zarya_saying_icon_karp_1_thumb.png"
+  },
   {
     "src": "assets/images/overwatch_wallpaper_images/zarya_saying_light_1.png",
     "tags": [
@@ -3193,6 +3393,16 @@
     "hero": "zarya",
     "artist": "/u/dxhhh101",
     "thb": "assets/images/thumbs/zarya_saying_mobile_1_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/zarya_title_fmr_1.png",
+    "tags": [
+      "zarya"
+    ],
+    "hero": "ZARYA",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/zarya_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zarya_valkia_1.jpg",
@@ -3356,6 +3566,16 @@
     ],
     "hero": "ZENYATTA",
     "thb": "assets/images/thumbs/zenyatta_screenshot_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/zenyatta_title_fmr_1.png",
+    "tags": [
+      "zenyatta"
+    ],
+    "hero": "ZENYATTA",
+    "artist": "FullMetalRoast",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j46th/i_made_some_minimalistic_wallpapers/",
+    "thb": "assets/images/thumbs/zenyatta_title_fmr_1_thumb.png"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_valkia_1.jpg",
