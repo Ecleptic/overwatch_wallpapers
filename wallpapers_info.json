@@ -155,6 +155,17 @@
     "thb": "assets/images/thumbs/bastion_title_fmr_1_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/dva_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "D.Va",
+      "dva"
+    ],
+    "hero": "D.Va",
+    "thb": "assets/images/thumbs/dva_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/dva_holyknight3000.jpg",
     "tags": [
       "D.Va",
@@ -367,6 +378,16 @@
     "artist": "mikoyanx",
     "artist_site": "http://mikoyanx.deviantart.com/",
     "thb": "assets/images/thumbs/genji_action_pose_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/genji_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "genji"
+    ],
+    "hero": "genji",
+    "thb": "assets/images/thumbs/genji_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/genji_icon_karp_1.png",
@@ -615,6 +636,16 @@
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/",
     "thb": "assets/images/thumbs/hanzo_background_1_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/hanzo_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "hanzo"
+    ],
+    "hero": "HANZO",
+    "thb": "assets/images/thumbs/hanzo_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/hanzo_glow.jpg",
@@ -870,6 +901,16 @@
     "thb": "assets/images/thumbs/hanzo_valkia_1_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/junkrat_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "junkrat"
+    ],
+    "hero": "junkrat",
+    "thb": "assets/images/thumbs/junkrat_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/junkrat_icon_karp_1.png",
     "artist": "MurderKarp",
     "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
@@ -990,6 +1031,16 @@
     "tags": [],
     "hero": "miscellaneous",
     "thb": "assets/images/thumbs/logo_burst_standard_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/lucio_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "lucio"
+    ],
+    "hero": "lucio",
+    "thb": "assets/images/thumbs/lucio_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/lucio_icon_karp_1.png",
@@ -1186,6 +1237,16 @@
     "thb": "assets/images/thumbs/mccree_action_pose_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/mccree_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "mccree"
+    ],
+    "hero": "mccree",
+    "thb": "assets/images/thumbs/mccree_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/mccree_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
@@ -1377,6 +1438,16 @@
     "thb": "assets/images/thumbs/mccree_valkia_1_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/mei_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "mei"
+    ],
+    "hero": "mei",
+    "thb": "assets/images/thumbs/mei_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/mei_icon_karp_1.png",
     "artist": "MurderKarp",
     "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
@@ -1529,6 +1600,16 @@
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/",
     "thb": "assets/images/thumbs/mercy_background_1_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/mercy_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "mercy"
+    ],
+    "hero": "MERCY",
+    "thb": "assets/images/thumbs/mercy_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/mercy_glow.jpg",
@@ -1785,6 +1866,16 @@
     "thb": "assets/images/thumbs/pharah_background_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/pharah_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "pharah"
+    ],
+    "hero": "PHARAH",
+    "thb": "assets/images/thumbs/pharah_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/pharah_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
@@ -1977,6 +2068,16 @@
     "thb": "assets/images/thumbs/reaper_black_wings_saying_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/reaper_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "reaper"
+    ],
+    "hero": "REAPER",
+    "thb": "assets/images/thumbs/reaper_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/reaper_glare_1.png",
     "tags": [
       "reaper"
@@ -2149,6 +2250,16 @@
     "thb": "assets/images/thumbs/reinhardt_background_2_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/reinhardt_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "reinhardt"
+    ],
+    "hero": "REINHARDT",
+    "thb": "assets/images/thumbs/reinhardt_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/reinhardt_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
@@ -2274,6 +2385,16 @@
     "thb": "assets/images/thumbs/reinhardt_valkia_1_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/roadhog_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "roadhog"
+    ],
+    "hero": "ROADHOG",
+    "thb": "assets/images/thumbs/roadhog_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/roadhog_intro_1.jpg",
     "tags": [
       "roadhog"
@@ -2358,6 +2479,16 @@
     "artist": "mikoyanx",
     "artist_site": "http://mikoyanx.deviantart.com/",
     "thb": "assets/images/thumbs/soldier_action_pose_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/soldier_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "Soldier 76"
+    ],
+    "hero": "Soldier 76",
+    "thb": "assets/images/thumbs/soldier_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/soldier_icon_karp_1.png",
@@ -2550,6 +2681,16 @@
     "thb": "assets/images/thumbs/symmetra_background_1_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/symmetra_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "symmetra"
+    ],
+    "hero": "SYMMETRA",
+    "thb": "assets/images/thumbs/symmetra_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/symmetra_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
@@ -2644,6 +2785,16 @@
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/",
     "thb": "assets/images/thumbs/torbjorn_background_1_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/torbjorn_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "torbjorn"
+    ],
+    "hero": "TORBJORN",
+    "thb": "assets/images/thumbs/torbjorn_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/torbjorn_glow.jpg",
@@ -2769,6 +2920,16 @@
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/",
     "thb": "assets/images/thumbs/tracer_background_1_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/tracer_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "tracer"
+    ],
+    "hero": "TRACER",
+    "thb": "assets/images/thumbs/tracer_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/tracer_controller_art.jpg",
@@ -3086,6 +3247,16 @@
     "thb": "assets/images/thumbs/widowmaker_background_1_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/widowmaker_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "widowmaker"
+    ],
+    "hero": "WIDOWMAKER",
+    "thb": "assets/images/thumbs/widowmaker_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/widowmaker_glare.png",
     "tags": [
       "widowmaker"
@@ -3231,6 +3402,16 @@
     "thb": "assets/images/thumbs/winston_background_1_thumb.png"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/winston_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "winston"
+    ],
+    "hero": "WINSTON",
+    "thb": "assets/images/thumbs/winston_charcoal_alkkine_1_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/winston_glow.jpg",
     "artist": "elexysvi",
     "artist_site": "http://elexysvi.deviantart.com/",
@@ -3325,6 +3506,16 @@
     "artist": "valkia",
     "artist_site": "http://www.youtube.com/valkia",
     "thb": "assets/images/thumbs/winston_valkia_1_thumb.jpg"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/zarya_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "zarya"
+    ],
+    "hero": "ZARYA",
+    "thb": "assets/images/thumbs/zarya_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zarya_glow.jpg",
@@ -3443,6 +3634,16 @@
     "artist": "pt-desu",
     "artist_site": "http://pt-desu.deviantart.com/",
     "thb": "assets/images/thumbs/zenyatta_background_1_thumb.png"
+  },
+  {
+    "src": "assets/images/overwatch_wallpaper_images/zenyatta_charcoal_alkkine_1.jpg",
+    "artist": "alkkine",
+    "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j63aq/some_darker_wallpapers_you_guys_might_like/",
+    "tags": [
+      "zenyatta"
+    ],
+    "hero": "ZENYATTA",
+    "thb": "assets/images/thumbs/zenyatta_charcoal_alkkine_1_thumb.jpg"
   },
   {
     "src": "assets/images/overwatch_wallpaper_images/zenyatta_glow.jpg",
