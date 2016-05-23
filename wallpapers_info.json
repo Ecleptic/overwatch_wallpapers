@@ -1886,6 +1886,16 @@
     "thb": "assets/images/thumbs/pharah_glow_thumb.jpg"
   },
   {
+    "src": "assets/images/overwatch_wallpaper_images/pharah_holyknight3000.jpg",
+    "tags": [
+      "pharah"
+    ],
+    "hero": "Pharah",
+    "artist": "Holyknight3000",
+    "artist_site": "http://holyknight3000.deviantart.com/",
+    "thb": "assets/images/thumbs/pharah_holyknight3000_thumb.jpg"
+  },
+  {
     "src": "assets/images/overwatch_wallpaper_images/pharah_icon_karp_1.png",
     "artist": "MurderKarp",
     "artist_site": "https://www.reddit.com/r/Overwatch/comments/4j1ekw/minimalistic_overwatch_wallpapers/",
